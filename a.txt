@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-111
-2222222222
-444
-33
-555
-666
-=======
 zzzzz
 zzzzzz
 zzzzzz
 zzzzzzz
->>>>>>> main
